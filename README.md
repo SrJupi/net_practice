@@ -11,4 +11,4 @@ Special thanks for a lot of good tutorials about how to deal with network and su
 * lpaube: [Guide to NetPractice](https://github.com/lpaube/NetPractice)   
 * viruskizz: [Netpractice](https://github.com/viruskizz/42bangkok-netpractice)
 * Wikipedia: [Subnet](https://en.wikipedia.org/wiki/Subnet)  
-* Wikipedia: [Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing  
+* Wikipedia: [Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)  
